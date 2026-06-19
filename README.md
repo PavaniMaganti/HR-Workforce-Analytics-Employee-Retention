@@ -38,7 +38,7 @@ HR-Workforce-Analytics-Employee-Retention/
 │
 ├── HR_Workforce_Analytics_Employee_Retention.ipynb
 ├── HR_Analytics_Cleaned.csv
-├── HR_Workforce_Analytics_Dashboard.pbix
+├── HR Workforce Analytics & Employee Retention Dashboard.pbix
 ├── executive_summary.png
 ├── attrition_drivers.png
 ├── workforce_profile.png
